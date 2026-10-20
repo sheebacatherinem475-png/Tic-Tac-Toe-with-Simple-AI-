@@ -89,9 +89,7 @@ Tic-Tac-Toe-with-Simple-AI/
 - Provide a play-again option.
 
 ## 👩‍💻 Author
-
-Developed as a beginner-friendly Python AI project.
-
+sheeba catherine
 ## 📄 License
 
 This project is available for educational and learning purposes.
